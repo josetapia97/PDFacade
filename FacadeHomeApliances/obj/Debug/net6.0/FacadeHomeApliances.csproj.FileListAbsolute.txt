@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\bin\Debug\net6.0\FacadeHomeApliances.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\bin\Debug\net6.0\FacadeHomeApliances.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\bin\Debug\net6.0\FacadeHomeApliances.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\bin\Debug\net6.0\FacadeHomeApliances.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\bin\Debug\net6.0\FacadeHomeApliances.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\refint\FacadeHomeApliances.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\FacadeHomeApliances.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeHomeApliances\obj\Debug\net6.0\ref\FacadeHomeApliances.dll

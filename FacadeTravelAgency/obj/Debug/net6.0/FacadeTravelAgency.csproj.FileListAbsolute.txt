@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\bin\Debug\net6.0\FacadeTravelAgency.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\bin\Debug\net6.0\FacadeTravelAgency.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\bin\Debug\net6.0\FacadeTravelAgency.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\bin\Debug\net6.0\FacadeTravelAgency.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\bin\Debug\net6.0\FacadeTravelAgency.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\refint\FacadeTravelAgency.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\FacadeTravelAgency.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Facade\FacadeTravelAgency\obj\Debug\net6.0\ref\FacadeTravelAgency.dll
